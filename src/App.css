@@ -1,0 +1,7 @@
+.app {
+  background-image: url(../public/images/ques1.png);
+  min-height: 95vh;
+  margin: 5px;
+  padding: 5px;
+  border: 8px solid #39445a93;
+}
